@@ -1,0 +1,352 @@
+[
+  {
+    "timestamp": "2026-05-17T16:33:41.806757",
+    "question": "hi",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 213
+  },
+  {
+    "timestamp": "2026-05-17T16:35:23.558554",
+    "question": "bạn là ai",
+    "source": "api",
+    "token_estimate": 168,
+    "answer_length": 135
+  },
+  {
+    "timestamp": "2026-05-17T16:37:05.228917",
+    "question": "1 + 1 =",
+    "source": "api",
+    "token_estimate": 169,
+    "answer_length": 135
+  },
+  {
+    "timestamp": "2026-05-17T21:16:06.723912",
+    "question": "hi",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 213
+  },
+  {
+    "timestamp": "2026-05-17T21:16:14.219799",
+    "question": "bạn là ai",
+    "source": "api",
+    "token_estimate": 49,
+    "answer_length": 189
+  },
+  {
+    "timestamp": "2026-05-17T21:16:18.632329",
+    "question": "xin chào",
+    "source": "api",
+    "token_estimate": 52,
+    "answer_length": 203
+  },
+  {
+    "timestamp": "2026-05-17T21:16:23.612868",
+    "question": "tôi là ai",
+    "source": "api",
+    "token_estimate": 56,
+    "answer_length": 216
+  },
+  {
+    "timestamp": "2026-05-17T21:16:33.918956",
+    "question": "1+1 =",
+    "source": "api",
+    "token_estimate": 3,
+    "answer_length": 9
+  },
+  {
+    "timestamp": "2026-05-17T21:16:40.752195",
+    "question": "ma trận là gì",
+    "source": "api",
+    "token_estimate": 240,
+    "answer_length": 950
+  },
+  {
+    "timestamp": "2026-05-17T21:16:56.005961",
+    "question": "ma trận bậc thang là gì cho ví dụ",
+    "source": "api",
+    "token_estimate": 123,
+    "answer_length": 459
+  },
+  {
+    "timestamp": "2026-05-17T21:17:24.067977",
+    "question": "đạo hàm của sinx",
+    "source": "api",
+    "token_estimate": 11,
+    "answer_length": 29
+  },
+  {
+    "timestamp": "2026-05-17T21:17:34.307737",
+    "question": "tích phân của c",
+    "source": "api",
+    "token_estimate": 33,
+    "answer_length": 120
+  },
+  {
+    "timestamp": "2026-05-17T21:17:42.029435",
+    "question": "tích phân của x",
+    "source": "api",
+    "token_estimate": 27,
+    "answer_length": 96
+  },
+  {
+    "timestamp": "2026-05-17T21:25:32.929317",
+    "question": "xin chào",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 203
+  },
+  {
+    "timestamp": "2026-05-17T21:25:37.843227",
+    "question": "bạn là ai",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 189
+  },
+  {
+    "timestamp": "2026-05-17T21:25:43.992292",
+    "question": "lịch thi",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 213
+  },
+  {
+    "timestamp": "2026-05-17T21:25:50.185612",
+    "question": "sai rồi",
+    "source": "api",
+    "token_estimate": 45,
+    "answer_length": 176
+  },
+  {
+    "timestamp": "2026-05-17T21:26:04.745058",
+    "question": "những môn thi là",
+    "source": "api",
+    "token_estimate": 63,
+    "answer_length": 239
+  },
+  {
+    "timestamp": "2026-05-17T21:26:12.575593",
+    "question": "sai nữa rồi",
+    "source": "api",
+    "token_estimate": 46,
+    "answer_length": 176
+  },
+  {
+    "timestamp": "2026-05-17T21:26:27.703501",
+    "question": "ma trận bậc thang là gì",
+    "source": "api",
+    "token_estimate": 174,
+    "answer_length": 676
+  },
+  {
+    "timestamp": "2026-05-17T21:26:50.530228",
+    "question": "ma trận nghịch đảo",
+    "source": "api",
+    "token_estimate": 221,
+    "answer_length": 867
+  },
+  {
+    "timestamp": "2026-05-17T21:28:32.618723",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 176
+  },
+  {
+    "timestamp": "2026-05-17T21:31:26.314127",
+    "question": "xin chào",
+    "source": "api",
+    "token_estimate": 55,
+    "answer_length": 215
+  },
+  {
+    "timestamp": "2026-05-17T21:31:32.386359",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 643
+  },
+  {
+    "timestamp": "2026-05-17T21:36:25.322398",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 479
+  },
+  {
+    "timestamp": "2026-05-17T21:37:29.996359",
+    "question": "xin chào",
+    "source": "api",
+    "token_estimate": 41,
+    "answer_length": 158
+  },
+  {
+    "timestamp": "2026-05-17T21:37:42.809318",
+    "question": "bạn là ai",
+    "source": "api",
+    "token_estimate": 74,
+    "answer_length": 289
+  },
+  {
+    "timestamp": "2026-05-17T21:37:51.220259",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 523
+  },
+  {
+    "timestamp": "2026-05-19T05:34:31.090659",
+    "question": "cách tính định thức ma trận",
+    "source": "api",
+    "token_estimate": 262,
+    "answer_length": 1023
+  },
+  {
+    "timestamp": "2026-05-19T05:35:28.131305",
+    "question": "có mấy cách tính ạ",
+    "source": "api",
+    "token_estimate": 277,
+    "answer_length": 1091
+  },
+  {
+    "timestamp": "2026-05-19T05:35:54.220094",
+    "question": "phương pháp biến đổi sơ cấp về ma trận bậc thang",
+    "source": "api",
+    "token_estimate": 391,
+    "answer_length": 1516
+  },
+  {
+    "timestamp": "2026-05-19T05:36:41.831222",
+    "question": "bạn hiểu như nào về câu \"Ông già đi nhanh quá\"",
+    "source": "api",
+    "token_estimate": 246,
+    "answer_length": 939
+  },
+  {
+    "timestamp": "2026-05-19T05:37:12.114777",
+    "question": "định lý caley halmonton",
+    "source": "api",
+    "token_estimate": 257,
+    "answer_length": 1007
+  },
+  {
+    "timestamp": "2026-05-19T05:44:13.138635",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 2296
+  },
+  {
+    "timestamp": "2026-05-19T05:49:31.261989",
+    "question": "tiếp ạ",
+    "source": "api",
+    "token_estimate": 65,
+    "answer_length": 255
+  },
+  {
+    "timestamp": "2026-05-19T05:49:47.552215",
+    "question": "cho tôi đáp án đúng",
+    "source": "api",
+    "token_estimate": 37,
+    "answer_length": 130
+  },
+  {
+    "timestamp": "2026-05-19T05:53:28.180274",
+    "question": "|-5|",
+    "source": "api",
+    "token_estimate": 3,
+    "answer_length": 10
+  },
+  {
+    "timestamp": "2026-05-21T13:03:56.355609",
+    "question": "xin chào",
+    "source": "api",
+    "token_estimate": 47,
+    "answer_length": 183
+  },
+  {
+    "timestamp": "2026-05-21T13:03:59.693382",
+    "question": "hi",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 213
+  },
+  {
+    "timestamp": "2026-05-21T13:04:26.908639",
+    "question": "lịch thi olp cấp trường năm 2025-2026",
+    "source": "api",
+    "token_estimate": 86,
+    "answer_length": 310
+  },
+  {
+    "timestamp": "2026-05-21T13:04:48.225483",
+    "question": "ủa là file .txt đó ý",
+    "source": "api",
+    "token_estimate": 71,
+    "answer_length": 267
+  },
+  {
+    "timestamp": "2026-05-21T13:06:20.917887",
+    "question": "lịch thi",
+    "source": "cache",
+    "token_estimate": 0,
+    "answer_length": 213
+  },
+  {
+    "timestamp": "2026-05-24T19:37:13.275491",
+    "question": "[QUIZ] Đại số tuyến tính medium",
+    "source": "api",
+    "token_estimate": 0,
+    "answer_length": 5,
+    "intent": "quiz"
+  },
+  {
+    "timestamp": "2026-05-25T14:16:48.880180",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 801,
+    "intent": "solve"
+  },
+  {
+    "timestamp": "2026-05-25T14:17:37.914257",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 2248,
+    "intent": "solve"
+  },
+  {
+    "timestamp": "2026-05-26T03:00:40.528221",
+    "question": "[QUIZ] Giải tích medium",
+    "source": "api",
+    "token_estimate": 0,
+    "answer_length": 6,
+    "intent": "quiz"
+  },
+  {
+    "timestamp": "2026-05-26T03:02:51.181602",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 2249,
+    "intent": "solve"
+  },
+  {
+    "timestamp": "2026-05-26T03:05:15.655985",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 2570,
+    "intent": "solve"
+  },
+  {
+    "timestamp": "2026-05-26T03:16:38.821934",
+    "question": "[IMAGE] ",
+    "source": "api_vision",
+    "token_estimate": 0,
+    "answer_length": 2517,
+    "intent": "solve"
+  }
+]
